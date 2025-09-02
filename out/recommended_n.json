@@ -1,0 +1,10 @@
+{
+  "n_star": 265,
+  "total_net_value": 1438.674844767983,
+  "avg_net_value_per_member": 5.428961678369747,
+  "benefit_per_saved": 150.0,
+  "cost_per_outcare": 30.0,
+  "uplift_algo_used": "logreg",
+  "best_churn_model": "logreg",
+  "best_outreach_model": "logreg"
+}
