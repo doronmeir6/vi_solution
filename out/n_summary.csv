@@ -1,0 +1,2 @@
+n_star,benefit_per_saved,cost_per_outcare,gate_mode,use_ev_gate,best_churn_model,best_outreach_model,selection_metric,ev_total_at_ev_gate_topK,eligible_pool_size,overridden_capacity_k,thr_churn_ev,thr_outreach_ev,n_star_from_ev
+240,150.0,30.0,and,True,logreg,logreg,auc_pr,1188.7122882011695,8387,,0.3,0.7,240
