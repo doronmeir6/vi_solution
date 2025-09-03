@@ -1,9 +1,0 @@
-{
-  "best_churn_model": "logreg",
-  "best_outreach_model": "logreg",
-  "selection_metric": "auc_roc",
-  "tune_lgbm_trials": 80,
-  "feature_select": "mi",
-  "feature_topk": 200,
-  "resampler": "none"
-}

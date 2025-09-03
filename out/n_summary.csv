@@ -1,2 +1,0 @@
-n_star,total_net_value,avg_net_value_per_member,benefit_per_saved,cost_per_outcare,uplift_algo_used,best_churn_model,best_outreach_model
-265,1438.674844767983,5.428961678369747,150.0,30.0,logreg,logreg,logreg
